@@ -1,0 +1,43 @@
+body {
+  text-align:center;
+background-image: url(background2.png);
+font-family: monospace;
+font-size: 1.4em
+}
+
+p {
+color: rgb(179,255,102);
+}
+
+h1 {
+color: rgb(179,255,102);
+}
+
+dt {
+color: rgb(179,255,102);
+}
+
+a {
+color: rgb(179,255,102);
+}
+
+figcaption {
+  color: rgb(179,255,102);
+  font-size: 1.3em;
+}
+
+footer.f1 {
+font-size: 1em;
+}
+
+footer.f2 {
+font-size: 0.8em;
+border-style: dotted none dotted none;
+border-width: 3px;
+border-color: rgb(115,230,0);
+}
+
+hr {
+  border-width: 3px;
+  border-color: rgb(115,230,0);
+}
