@@ -1,0 +1,38 @@
+body {
+ text-align:center;
+ background-image: url(background.png);
+ font-family: monospace;
+ font-size: 1.4em
+
+}
+
+p {
+  color: rgb(179,255,102);
+}
+
+h1 {
+  color: rgb(179,255,102);
+}
+
+a {
+  color: rgb(179,255,102);
+  opacity: 1;
+}
+table{
+width: 100%;
+}
+
+tr,td{
+  border: 0.2px dashed rgb(115,230,0);
+}
+
+footer {
+  font-size: 0.8em;
+  border-style: dotted none dotted none;
+  border-width: 3px;
+  border-color: rgb(115,230,0);
+}
+hr {
+  border-width: 3px;
+  border-color: rgb(115,230,0);
+}
