@@ -6,38 +6,43 @@ font-size: 1.4em
 }
 
 p {
-color: rgb(179,255,102);
+color: rgb(255,153,51);
 }
 
 h1 {
-color: rgb(179,255,102);
+color: rgb(255,51,187);
+font-family: "MV Boli";
+font-size: 2em
 }
 
 dt {
-color: rgb(179,255,102);
+color: rgb(255,153,51);
 }
 
 a {
-color: rgb(179,255,102);
+color: rgb(255,153,51);
 }
 
 figcaption {
-  color: rgb(179,255,102);
+  color: rgb(255,153,51);
   font-size: 1.3em;
 }
 
 footer.f1 {
 font-size: 1em;
+  color: rgb(255,153,51);
 }
 
 footer.f2 {
 font-size: 0.8em;
-border-style: dotted none dotted none;
-border-width: 3px;
-border-color: rgb(115,230,0);
+border-style: solid none solid none;
+border width: 1px;
+border-radius: 10px;
+border-color: rgb(255,153,51);
 }
 
 hr {
-  border-width: 3px;
-  border-color: rgb(115,230,0);
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(255,153,51);
 }
